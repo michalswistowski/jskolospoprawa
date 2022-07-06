@@ -126,3 +126,5 @@ class IcebreakerShip extends Ship {
         }
     }
 }
+
+wez ten kod z dolu polecenia sprawdz bo pelno bledow
